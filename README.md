@@ -1,4 +1,4 @@
-## EcoGuide: API para um DESENVOLVIMENTO SAUDÁVEl e SUSTENTÁVEL
+## EcoGuide: API para um DESENVOLVIMENTO SAUDÁVEl e SUSTENTÁVEL 🇧🇷
 
 😊 Bem-vindo ao projeto dedicado a atividades ao ar livre, informações sobre poluentes e seus impactos na qualidade do meio ambiente. Este repositório contém uma API simples que fornece recomendações de atividades, dados sobre poluentes atmosféricos e seus impactos na saúde humana.
 
@@ -59,3 +59,66 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Basta seguir e
 6. Abra um Pull Request no GitHub.
 
 Agradeço por contribuir para tornar este projeto ainda melhor! 😊
+
+----------------------------------------------------------------------------------------
+
+## EcoGuide: API for HEALTHY and SUSTAINABLE DEVELOPMENT 🇺🇸
+
+😊 Welcome to the project dedicated to outdoor activities, information about pollutants, and their impacts on environmental quality. This repository contains a simple API that provides recommendations for activities, data on atmospheric pollutants, and their impacts on human health.
+
+🌍 What's the mission? Raise awareness about the importance of environmental quality and health in different locations.
+
+### API Routes
+
+- **/recommendations:** Get recommendations for outdoor activities, ideal for different preferences and groups.
+
+   ![Recommendations for outdoor activities](https://i.imgur.com/4Y26FLe.png)
+
+- **/pollutants:** Access detailed information about various atmospheric pollutants, highlighting their associated risks.
+
+   ![Pollutants present in the environment](https://i.imgur.com/lM6MXXx.png)
+
+- **/impact:** Explore human impact on air quality, highlighting practices and activities contributing to pollution.
+
+  ![Impacts caused by humans](https://i.imgur.com/m3z8G8F.png)
+
+### How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the application:
+   ```bash
+   npm start
+   ```
+
+4. Access the API at http://localhost:3000.
+
+### Contribution
+
+Feel free to contribute improvements or fixes. Just follow these steps:
+
+1. Fork the repository.
+2. Create a branch for your contribution:
+   ```bash
+   git checkout -b your-branch
+   ```
+3. Make desired changes.
+4. Commit your changes:
+   ```bash
+   git commit -m "Description of changes"
+   ```
+5. Push to your branch:
+   ```bash
+   git push origin your-branch
+   ```
+6. Open a Pull Request on GitHub.
+
+Thanks for contributing to making this project even better! 😊
