@@ -8,15 +8,15 @@
 
 - **/recomendacoes:** Obtenha recomendações para atividades ao ar livre, ideais para diferentes preferências e grupos.
 
--  ![Recomendações para atividades ao ar livre](https://i.imgur.com/4Y26FLe.png)
+   ![Recomendações para atividades ao ar livre](https://i.imgur.com/4Y26FLe.png)
 
 - **/poluentes:** Acesse informações detalhadas sobre vários poluentes atmosféricos, destacando seus riscos associados.
 
--  ![Poluentes presentes no meio ambiente](https://i.imgur.com/lM6MXXx.png)
+   ![Poluentes presentes no meio ambiente](https://i.imgur.com/lM6MXXx.png)
 
 - **/impacto:** Explore o impacto humano na qualidade do ar, destacando práticas e atividades que contribuem para a poluição.
 
-- ![Impactos causados pelos seres humanos](https://i.imgur.com/m3z8G8F.png)
+  ![Impactos causados pelos seres humanos](https://i.imgur.com/m3z8G8F.png)
 
 
 ### Como Usar
