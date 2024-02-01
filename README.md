@@ -1,6 +1,6 @@
 ## EcoGuide: API para um DESENVOLVIMENTO SAUDÁVEl e SUSTENTÁVEL
 
-Bem-vindo ao projeto dedicado a atividades ao ar livre, informações sobre poluentes e seus impactos na qualidade do meio ambiente. Este repositório contém uma API simples que fornece recomendações de atividades, dados sobre poluentes atmosféricos e seus impactos na saúde humana.
+😊 Bem-vindo ao projeto dedicado a atividades ao ar livre, informações sobre poluentes e seus impactos na qualidade do meio ambiente. Este repositório contém uma API simples que fornece recomendações de atividades, dados sobre poluentes atmosféricos e seus impactos na saúde humana.
 
 🌍 Qual a missão? Conscientizar sobre a importância da qualidade do meio ambiente e da saúde em diferentes localidades. 
 
