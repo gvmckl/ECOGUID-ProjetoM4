@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 const PORT = 3000;
 
-let RecomendaçõesAtividades = [
+let RecomendacoesAtividades = [
 
   {atividade: "Caminhada em trilhas naturais", participantes: "Individual ou em grupo", preco: "Gratuito ou taxa de entrada em parques", tipo: "Atividade física ao ar livre", acessibilidade: "80%"},
   {atividade: "Piquenique em um parque local", participantes: "Ideal para grupos de amigos ou famílias", preco: "Custo dos alimentos preparados", tipo: "Social e gastronômica", acessibilidade: "90%"},
@@ -45,7 +45,7 @@ let RecomendaçõesAtividades = [
   
 ]
 
-let InformaçõesPoluentes = [
+let InformacoesPoluentes = [
   
   {poluente: "Dióxido de Enxofre (SO2)", risco: "Impacto respiratório, 30% de risco para grupos sensíveis"},
   {poluente: "Material Particulado (PM10 e PM2.5)", risco: "Problemas respiratórios, 40% de risco para grupos sensíveis"},
